@@ -1,2 +1,3 @@
 # cv-espam
-practicas 
+# Practicas Trabajo Colaborativo
+*Con mis dos alter egos* 
