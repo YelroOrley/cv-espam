@@ -3,4 +3,9 @@ export const subtraction = (a: number, b: number) => {
 }
 
 function multiply(a, b) {
+  return a * b;
+}
+
+function divide(a, b) {
+  return a / b;
 }
